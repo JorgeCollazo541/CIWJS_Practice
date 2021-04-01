@@ -73,3 +73,16 @@ const binary = (arr,target) => {
 console.log(binary(unsortedArr, 2));//40 steps in 40 milliseconds
 console.log(binary(sortedArr, 44));//40 steps in 40 milliseconds
 console.log(binary(sortedArr, 43));//40 steps in 40 milliseconds
+
+//Leet Code Proble 9//
+
+
+
+//Leet Code Proble 34//
+
+
+
+//Leet Code Proble 412//
+
+
+
